@@ -36,8 +36,8 @@
                                     <a href="/about">About</a>
                                 </li>
                                 <li>	
-	                            <a href="/">Work</a>
-	                            </li>
+	                            <a href="/">Tab</a>
+	                        </li>
                                 <li>
                                     <a href="#">
                                         Locations
